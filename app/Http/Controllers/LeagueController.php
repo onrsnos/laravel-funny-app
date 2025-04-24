@@ -14,6 +14,7 @@ class LeagueController extends Controller
     {
         //
         
+        
         return view('welcome');
     }
 
