@@ -15,7 +15,7 @@ class LeagueController extends Controller
         //
         
         
-        return view('welcome');
+        return  view('welcome');
     }
 
     // return league datas in datatable (yajra)
